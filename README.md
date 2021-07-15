@@ -1,6 +1,6 @@
 *Hello, I'm a Software Developer at [Brivia Group.](https://www.brivia.com.br/)*
 
-####💻 Building stuff with:
+### 💻 Building stuff with:
 
 <img align="left" alt="Node.js" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
