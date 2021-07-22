@@ -1,4 +1,4 @@
-*Hello, I'm a Software Developer at [Brivia Group.](https://www.brivia.com.br/)*
+*Hello, I'm a Software Developer at [Brivia.](https://www.brivia.com.br/)*
 
 ### Building stuff with:
 
